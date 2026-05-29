@@ -12,4 +12,4 @@ I think the point is to live a meaningful life so that I will not regret.
 ## Tools I can use:
 *1. choice point:*\
 We have towards moves and away moves, life situations, and a spectrum of human emotions.
-![choice point](./Choice Point 2.0_BW.pdf)
+![choice point](./Choice Point.png)
